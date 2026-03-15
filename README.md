@@ -1,7 +1,7 @@
-# Control Center Blur for REDMI, POCO & xiaomi devices (Lite version)
+# Control Center Blur for MIUI & HyperOS (Lite version)
 ![Picsart_25-06-23_22-24-54-105](https://github.com/user-attachments/assets/2e30c556-aa1f-44e9-944c-15f8b9614099)
 
-A modified and **Lighter** version of Control Center Blur, built specifically for **REDMI, POCO & xiaomi devices** 
+A modified and **Lighter** version of Control Center Blur, built specifically for **MIUI & HyperOS** 
 This version sacrifices some real-time blur effects for **better performance**, **lower RAM/CPU usage**, and a **smoother experience** on low-end or mid-range devices.
 
 [![Releases](https://img.shields.io/github/v/release/fakerieh/Control-Center-Blur-for-HyperOS2-but-LIGHTER-?label=Download%20Releases&style=for-the-badge&logo=github)](https://github.com/fakerieh/Control-Center-Blur-for-HyperOS2-but-LIGHTER-/releases)
@@ -27,7 +27,7 @@ For non-root device watch the tutorial here
 - ✅ **AOD (Always-On Display) transition animation** (⚠️ONLY WORKED IF U INSTALLED THE **NON LITE VERSION**)
 - ✅ **No Blurred volume panel**
 - ✅ **Blurred Power Menu**
-- ⚠️ **Only for REDMI, POCO & xiaomi devices**
+- ⚠️ **Only for MIUI & HyperOS**
 - ⚠️ **Some effects disabled intentionally to keep the system light**
 
 ---
@@ -56,7 +56,7 @@ For non-root device watch the tutorial here
 
 ## 📦 Requirements
 
-- **REDMI, POCO & xiaomi** devices
+- REDMI, POCO & xiaomi devices running on **MIUI & HyperOS**
 - **Root access**
 - **Magisk or KernelSU** (latest version recommended)
 
