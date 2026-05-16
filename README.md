@@ -101,6 +101,8 @@ Use at your own risk. The author is not responsible for any potential damage or 
 
 **Created by [Fakeri](https://github.com/fakerieh)**
 
+**Support channel [Fakh's stuff](https://t.me/fakh_dump)**
+
 **Credits: Xiaomi & HyperOS Dev**
 
 
